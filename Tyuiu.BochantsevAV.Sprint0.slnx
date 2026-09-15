@@ -5,4 +5,25 @@
   <Folder Name="/Task1/">
     <Project Path="Tyuiu.BochantsevAV.Sprint0.Task1.V0/Tyuiu.BochantsevAV.Sprint0.Task1.V0.csproj" Id="b4cd86f5-ab02-4636-852f-1a68afc5c717" />
   </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task2.V0.Lib/Tyuiu.BochantsevAV.Sprint0.Task2.V0.Lib.csproj" Id="3841e199-c521-4244-9533-ad2a96057201" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task2.V0.Test/Tyuiu.BochantsevAV.Sprint0.Task2.V0.Test.csproj" Id="38b04091-223f-4dea-8a00-94fbcc534798" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task2.V0/Tyuiu.BochantsevAV.Sprint0.Task2.V0.csproj" Id="fc29958a-d43d-411c-b182-15f1653bdb43" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task3.V0.Lib/Tyuiu.BochantsevAV.Sprint0.Task3.V0.Lib.csproj" Id="5462ec8c-694a-4cd7-a724-5552edbd68b9" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task3.V0.Test/Tyuiu.BochantsevAV.Sprint0.Task3.V0.Test.csproj" Id="35a175d4-1dd0-4084-bf51-aadb1d51ae8f" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task3.V0/Tyuiu.BochantsevAV.Sprint0.Task3.V0.csproj" Id="b666bc6c-944d-4658-ab63-88a63936edcb" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task4.V0.Lib/Tyuiu.BochantsevAV.Sprint0.Task4.V0.Lib.csproj" Id="1088887f-36f8-4d66-9c9a-46bfb11bf5e8" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task4.V0.Test/Tyuiu.BochantsevAV.Sprint0.Task4.V0.Test.csproj" Id="bc4af4ca-1665-4701-b440-ea652ccdfd9e" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task4.V0/Tyuiu.BochantsevAV.Sprint0.Task4.V0.csproj" Id="203e35c0-f84e-4503-885f-6cfb3ff406eb" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task5.V0.Lib/Tyuiu.BochantsevAV.Sprint0.Task5.V0.Lib.csproj" Id="f3bfd89c-1fe3-4eb8-bf1b-74e0d3c759b2" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task5.V0.Test/Tyuiu.BochantsevAV.Sprint0.Task5.V0.Test.csproj" Id="70c3bc21-f836-4ed2-b1c8-bdb18afee028" />
+    <Project Path="Tyuiu.BochantsevAV.Sprint0.Task5.V0/Tyuiu.BochantsevAV.Sprint0.Task5.V0.csproj" Id="b980ffcf-e1ea-4204-91b3-02bb5106fd37" />
+  </Folder>
+  <Folder Name="/Task6/" />
 </Solution>
